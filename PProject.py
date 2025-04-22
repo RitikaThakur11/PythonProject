@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Load the CSV file
 df = pd.read_csv("Provisional_COVID-19_Deaths_by_Sex_and_Age .csv")
-print(df.head())
+print(df.head())cc
 print(df.info())
 
 # Summary Statistics
